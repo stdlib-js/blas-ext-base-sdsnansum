@@ -20,7 +20,7 @@ limitations under the License.
 
 # sdsnansum
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Calculate the sum of single-precision floating-point strided array elements, ignoring `NaN` values and using extended accumulation.
 
@@ -191,11 +191,11 @@ console.log( v );
 
 ## See Also
 
--   [`@stdlib/blas/ext/base/dsnansum`][@stdlib/blas/ext/base/dsnansum]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values, using extended accumulation, and returning an extended precision result.
--   [`@stdlib/blas/ext/base/dnansum`][@stdlib/blas/ext/base/dnansum]: calculate the sum of double-precision floating-point strided array elements, ignoring NaN values.
--   [`@stdlib/blas/ext/base/gnansum`][@stdlib/blas/ext/base/gnansum]: calculate the sum of strided array elements, ignoring NaN values.
--   [`@stdlib/blas/ext/base/sdssum`][@stdlib/blas/ext/base/sdssum]: calculate the sum of single-precision floating-point strided array elements using extended accumulation.
--   [`@stdlib/blas/ext/base/snansum`][@stdlib/blas/ext/base/snansum]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values.
+-   <span class="package-name">[`@stdlib/blas/ext/base/dsnansum`][@stdlib/blas/ext/base/dsnansum]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values, using extended accumulation, and returning an extended precision result.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/dnansum`][@stdlib/blas/ext/base/dnansum]</span><span class="delimiter">: </span><span class="description">calculate the sum of double-precision floating-point strided array elements, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/gnansum`][@stdlib/blas/ext/base/gnansum]</span><span class="delimiter">: </span><span class="description">calculate the sum of strided array elements, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/sdssum`][@stdlib/blas/ext/base/sdssum]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements using extended accumulation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/snansum`][@stdlib/blas/ext/base/snansum]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values.</span>
 
 </section>
 
@@ -246,8 +246,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-sdsnansum/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-sdsnansum?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-sdsnansum.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-sdsnansum/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
