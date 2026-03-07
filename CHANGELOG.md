@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-01)
+## Unreleased (2026-03-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`4b0dd5e`](https://github.com/stdlib-js/stdlib/commit/4b0dd5e0e8c65e7f56c923e06c964dd2c187813e) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/sdsnansum` [(#10761)](https://github.com/stdlib-js/stdlib/pull/10761) _(by Prajjwal Bajpai)_
 -   [`0c02a19`](https://github.com/stdlib-js/stdlib/commit/0c02a1921261eabdcf81ee99f893f3ae76fb2a35) - **bench:** refactor to use string interpolation in `blas/ext/base/sdsnansum` [(#10592)](https://github.com/stdlib-js/stdlib/pull/10592) _(by Kamal Singh Rautela)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Kamal Singh Rautela
+-   Prajjwal Bajpai
 
 </section>
 
